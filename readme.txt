@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 nihao Creating A 
-哈哈哈哈
+AND NEW BRANCH
